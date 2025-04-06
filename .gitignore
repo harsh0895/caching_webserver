@@ -1,0 +1,15 @@
+# Ignore Python virtual environment folder
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Redis dump files (optional)
+dump.rdb
+
+# Ignore doc.txt
+docs.txt
+
