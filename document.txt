@@ -1,0 +1,6 @@
+1. I used the python module called flask for creating a Server or routes.
+2. I used docker for installing redis.
+3. http://127.0.0.1:5000/ --> web page index.html
+4. http://127.0.0.1:5000/data --> get data
+5. http://127.0.0.1:5000/clear-cache --> used for clear cache.
+6. This all are running under the python virtual environment.
