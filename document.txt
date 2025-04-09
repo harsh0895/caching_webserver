@@ -4,3 +4,8 @@
 4. http://127.0.0.1:5000/data --> get data
 5. http://127.0.0.1:5000/clear-cache --> used for clear cache.
 6. This all are running under the python virtual environment.
+
+requirements:-
+Flask
+redis
+pyodbc
